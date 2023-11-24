@@ -1,7 +1,7 @@
-#Decay Calculator and Element Information
+# Decay Calculator and Element Information
 This Python program provides a Decay Calculator and Element Information tool based on data from the Livechart of Nuclides.
 
-#Usage
+# Usage
 To use the program, follow these steps:
 
 Decay Calculator:
