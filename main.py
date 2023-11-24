@@ -2,7 +2,7 @@ import pandas as pd
 import random
 
 # Read the datafile
-data = pd.read_csv('Element_data\Livechart.csv', sep=',')
+data = pd.read_csv('data.csv', sep=',')
 
 class decaycalculations:
     def alpha_decay(row_number, element_input, isotope_number_input):
